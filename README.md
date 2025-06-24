@@ -2,7 +2,7 @@
 
 I am a passionate Machine Learning Engineer with a strong foundation in software development and artificial intelligence. My journey involves exploring innovative solutions in AI, working on impactful projects, and sharing my knowledge with the community.  
 
-![Muskan's Stats](https://github-readme-stats.vercel.app/api?username=MuskanSaini27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![Muskan's Stats](https://github-readme-stats.vercel.app/api?username=MuskanSaini27&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
 
 ## 🚀 About Me  
 
