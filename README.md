@@ -1,6 +1,4 @@
----
-
-<!--# Hi, I'm Muskan Saini! 👋  
+---# Hi, I'm Muskan Saini! 👋  
 
 I am a passionate Machine Learning Engineer with a strong foundation in software development and artificial intelligence. My journey involves exploring innovative solutions in AI, working on impactful projects, and sharing my knowledge with the community.  
 
@@ -53,4 +51,4 @@ I am a passionate Machine Learning Engineer with a strong foundation in software
 - 🎶 Let’s talk **Punjabi Hip-Hop & Diljit Dosanjh's latest releases!**  
 - 🚀 Collaborate on AI & ML projects!  
 
-Thanks for stopping by! Let's build and innovate together. 🚀✨  -->
+Thanks for stopping by! Let's build and innovate together. 🚀✨ 
