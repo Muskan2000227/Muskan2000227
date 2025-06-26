@@ -2,8 +2,6 @@
 
 I am a passionate Machine Learning Engineer with a strong foundation in software development and artificial intelligence. My journey involves exploring innovative solutions in AI, working on impactful projects, and sharing my knowledge with the community.  
 
-![Muskan's Stats](https://github-readme-stats.vercel.app/api?username=MuskanSaini27&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
-
 ## 🚀 About Me  
 
 - 🎓 I have experience working on AI-driven projects, including **Text-to-Speech (TTS), News Recommendation Systems, and Healthcare Expert Systems**.  
@@ -21,9 +19,13 @@ I am a passionate Machine Learning Engineer with a strong foundation in software
   - Developing an AI-driven **heart disease prediction system**.  
   - Implemented secure authentication and interactive user features in **Django**.  
 
-- 📰 **News Recommender**  
-  - Scraped, cleaned, and analyzed news articles to build a personalized **news recommendation system**.  
-  - Used **BeautifulSoup, NLP, and machine learning techniques** to enhance recommendations.  
+- 🗓️ **Admission Cell Slot Booking System**
+ -Developed a dynamic **slot booking platform** using **Django** for admission counseling sessions.
+ -Implemented features like **single slot per day restriction, no past bookings**, and **automated confirmation emails**.
+ -Utilized **HTML, CSS, and JavaScript** for a responsive and user-friendly frontend.
+ -Streamlined **student-teacher-admin interaction** and improved the efficiency of the admission process.
+
+ 
 
 ## 🛠 Tech Stack  
 
@@ -41,13 +43,12 @@ I am a passionate Machine Learning Engineer with a strong foundation in software
 
 ## 🏆 Achievements  
 
-- 🎯 Successfully implemented **course completion tracking and user login** features in a web platform.  
-- 📊 Built a **temperature forecasting regression model** for data-driven insights.  
+- 🎯 Successfully implemented **course completion tracking and user login** features in a web platform.   
 - 🎖 Participated in **TCS CodeVita** and tackled competitive coding challenges.  
 
 ## 📬 Get in Touch  
 
-- 💼 Connect with me on **LinkedIn**  
+- 💼 Connect with me on **LinkedIn**- https://www.linkedin.com/in/muskan--saini/ 
 - 🚀 Collaborate on AI & ML projects!  
 
 Thanks for stopping by! Let's build and innovate together. 🚀✨
